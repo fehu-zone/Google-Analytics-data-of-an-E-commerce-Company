@@ -41,6 +41,19 @@ Here are some specific analyses you can perform using this dataset:
 
 ---
 
+---
+
+## 🔍 **Additional Notes**
+
+The dataset is structured in a simple and easy-to-use format, containing the following columns:
+
+- **Date Format**: Ensure that the date column is treated as a datetime object for time series analysis.
+- **Handling Missing Data**: If there are any missing values, consider using interpolation techniques or forward/backward filling to handle gaps in the data.
+- **Data Frequency**: This dataset captures daily data, but you can resample it to weekly or monthly intervals depending on your analysis needs.
+- **Outliers**: Be on the lookout for outliers that might skew the analysis, especially if there were technical issues or external events impacting the platform.
+
+---
+
 ## 🚀 **Getting Started**
 
 To get started with this dataset, you can load it into your preferred analysis tool. Here's how to do it using Python's `pandas` library:
@@ -57,15 +70,4 @@ print(data.head())
 # Basic statistics
 print(data.describe())
 
----
 
-## 🔍 **Additional Notes**
-
-The dataset is structured in a simple and easy-to-use format, containing the following columns:
-
-- **Date Format**: Ensure that the date column is treated as a datetime object for time series analysis.
-- **Handling Missing Data**: If there are any missing values, consider using interpolation techniques or forward/backward filling to handle gaps in the data.
-- **Data Frequency**: This dataset captures daily data, but you can resample it to weekly or monthly intervals depending on your analysis needs.
-- **Outliers**: Be on the lookout for outliers that might skew the analysis, especially if there were technical issues or external events impacting the platform.
-
----
