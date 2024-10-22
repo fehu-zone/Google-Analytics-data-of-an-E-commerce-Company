@@ -1,0 +1,378 @@
+# ----------------------------------------
+# Dışa Aktarılan CSV Rapor
+# Hesap: Google Ads Hesabı
+# Mülk: sigvarisbayiankara.com
+# ----------------------------------------
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+N. hafta,Etkin kullanıcı sayısı
+0004,11
+0005,183
+0006,649
+0007,898
+0008,847
+0009,756
+0010,753
+0011,537
+0012,454
+0013,106
+
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+N. hafta,Yeni kullanıcı sayısı
+0004,11
+0005,180
+0006,642
+0007,886
+0008,827
+0009,737
+0010,733
+0011,519
+0012,445
+0013,99
+
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+N. hafta,Etkin kullanıcı başına ortalama etkileşim süresi
+0004,99.63636363636364
+0005,62.4207650273224
+0006,35.92604006163328
+0007,38.102449888641424
+0008,48.43801652892562
+0009,40.82275132275132
+0010,40.80478087649402
+0011,46.02607076350093
+0012,45.54405286343612
+0013,29.60377358490566
+
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+N. hafta,Toplam gelir
+0004,0
+0005,0
+0006,0
+0007,0
+0008,3849.999993
+0009,5024.999988
+0010,0
+0011,4499.999995
+0012,5399.999993
+0013,0
+
+# Yeni kullanıcılarınız nereden geliyor?
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),Yeni kullanıcı sayısı
+Paid Search,4398
+Direct,303
+Paid Social,231
+Organic Search,121
+Organic Social,26
+
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Oturumla ilişkilendirilen birincil kanal grubu (Varsayılan Kanal Grubu),Oturumlar
+Paid Search,5058
+Direct,370
+Paid Social,265
+Organic Search,179
+Organic Social,37
+Referral,28
+Unassigned,3
+
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Ülke Kimliği,Etkin kullanıcı sayısı
+AE,1
+AM,1
+AZ,2
+CA,2
+CL,1
+CN,4
+CR,3
+CY,2
+DE,4
+DZ,3
+EG,1
+FR,2
+GE,1
+GI,2
+GP,4
+GT,1
+HK,2
+HU,1
+ID,2
+IN,11
+IR,1
+JM,1
+KH,5
+KN,2
+LA,1
+LB,1
+MD,1
+ME,2
+ML,1
+MP,1
+MX,2
+MZ,1
+NA,1
+NL,1
+PY,1
+RE,2
+RS,1
+RU,1
+TR,4966
+TW,1
+US,37
+VN,2
+
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Ülke,Etkin kullanıcı sayısı
+TR,4966
+US,37
+IN,11
+KH,5
+CN,4
+DE,4
+GP,4
+
+# Etkin kullanıcılar nasıl bir eğilim gösteriyor?
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+N. gün,30 gün,7 gün,1 gün
+0000,0,0,0
+0001,0,0,0
+0002,0,0,0
+0003,0,0,0
+0004,0,0,0
+0005,0,0,0
+0006,0,0,0
+0007,0,0,0
+0008,0,0,0
+0009,0,0,0
+0010,0,0,0
+0011,0,0,0
+0012,0,0,0
+0013,0,0,0
+0014,0,0,0
+0015,0,0,0
+0016,0,0,0
+0017,0,0,0
+0018,0,0,0
+0019,0,0,0
+0020,0,0,0
+0021,0,0,0
+0022,0,0,0
+0023,0,0,0
+0024,0,0,0
+0025,0,0,0
+0026,0,0,0
+0027,0,0,0
+0028,0,0,0
+0029,0,0,0
+0030,8,8,8
+0031,11,11,4
+0032,14,14,4
+0033,15,15,3
+0034,20,20,6
+0035,44,44,25
+0036,103,103,63
+0037,184,179,83
+0038,191,183,7
+0039,192,182,2
+0040,195,183,5
+0041,313,297,120
+0042,490,451,180
+0043,608,510,121
+0044,721,544,117
+0045,833,649,117
+0046,935,750,108
+0047,1074,884,142
+0048,1217,913,148
+0049,1339,860,126
+0050,1471,874,139
+0051,1611,902,144
+0052,1719,898,113
+0053,1803,877,86
+0054,1956,891,156
+0055,2090,891,143
+0056,2235,918,150
+0057,2349,898,125
+0058,2461,875,122
+0059,2544,847,89
+0060,2637,861,101
+0061,2756,833,128
+0062,2868,811,124
+0063,2983,784,122
+0064,3101,790,129
+0065,3165,761,91
+0066,3187,756,84
+0067,3176,730,74
+0068,3292,729,128
+0069,3418,741,133
+0070,3532,745,130
+0071,3535,738,126
+0072,3454,749,102
+0073,3419,753,89
+0074,3374,750,69
+0075,3406,771,148
+0076,3413,755,120
+0077,3336,692,63
+0078,3262,638,66
+0079,3190,586,45
+0080,3093,537,42
+0081,2993,510,40
+0082,2953,443,74
+0083,2942,400,80
+0084,2862,407,76
+0085,2796,416,76
+0086,2709,428,57
+0087,2661,454,68
+0088,2590,460,46
+0089,2561,451,60
+
+# Kullanıcılarınızı elde tutma başarınız ne düzeyde?
+# Başlangıç tarihi: 20240908
+# Bitiş tarihi: 20241019
+Tarih,0. Hafta,1. Hafta,2. Hafta,3. Hafta,4. Hafta,5. Hafta
+8 Eyl - 14 Eyl,885,16,6,2,1
+15 Eyl - 21 Eyl,826,12,2,0,3
+22 Eyl - 28 Eyl,737,16,5,0,-1
+29 Eyl - 5 Eki,732,10,0,-1,-1
+6 Eki - 12 Eki,519,3,-1,-1,-1
+13 Eki - 19 Eki,445,-1,-1,-1,-1
+
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Sayfa başlığı ve ekran sınıfı,Görüntüleme Sayısı
+Sigvaris Ankara Bayi,6188
+Ürünlerimiz – Sigvaris Ankara Bayi,1792
+Sigvaris Classical (Topfine Select) Serisi Dizaltı – Diz Altı Varis Çorabı – Sigvaris Ankara Bayi,403
+Sigvaris Classical (Topfine Select) Serisi Külotlu Varis Çorabı – Sigvaris Ankara Bayi,190
+Ürünlerimiz – Sayfa 2 – Sigvaris Ankara Bayi,148
+Essential Classical (Topfine) Ürün Serisi – Sigvaris Ankara Bayi,136
+Sigvaris Classical (Topfine Select) Serisi Kasığa Kadar Silikonlu Varis Çorabı – Sigvaris Ankara Bayi,128
+Essential SemiTransparent (Magic) Ürün Serisi – Sigvaris Ankara Bayi,118
+Classical Traditional 503 Ürün Serisi – Sigvaris Ankara Bayi,113
+Essential Thermoregulating (Cotton) – Sigvaris Ankara Bayi,113
+Sigvaris Comfortable Serisi Külotlu Varis Çorabı Etkileyici Opak Görünüm – Sigvaris Ankara Bayi,99
+Checkout – Sigvaris Ankara Bayi,97
+Mikrofiber Shades Ürün Serisi – Sigvaris Ankara Bayi,88
+Varis Çorabı Kullanırken Dikkat Edilmesi Gerekenler – Sigvaris Ankara Bayi,77
+Essential Comfortable (Comfort) Ürün Serisi – Sigvaris Ankara Bayi,75
+Sigvaris Comfortable Serisi Hamile Varis Çorabı Etkileyici Opak Görünüm – Sigvaris Ankara Bayi,73
+Sigvaris Thermoregulating ( Cotton ) Serisi Külotlu Varis Çorabı – Sigvaris Ankara Bayi,71
+Sigvaris Tradational 503 Serisi Külotlu Orta Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,65
+Microfiber Shades Argyle Cherry Desenli Kadın Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,60
+Sigvaris Comfortable Serisi Dizaltı – Diz Altı Varis Çorabı Etkileyici Opak Görünüm – Sigvaris Ankara Bayi,60
+Varis Çorabı Nedir? – Sigvaris Ankara Bayi,51
+Sigvaris Comfortable Serisi Kasığa Kadar Silikonlu Varis Çorabı Etkileyici Opak Görünüm – Sigvaris Ankara Bayi,50
+Microfiber Shades Argyle Grahite Desenli Erkek Dizaltı Varis Çorabı |Renkli By Sigvaris – Sigvaris Ankara Bayi,48
+Essential Classical (Topfine) – Sigvaris Ankara Bayi,47
+Ürünlerimiz – Sayfa 3 – Sigvaris Ankara Bayi,47
+Sigvaris 503 Serisi Kasığa Kadar Orta Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,46
+Sigvaris Semi-Transparent (Magic) Serisi Dizaltı Diz Altı Varis Çorabı Yarı Transparan Görünüm – Sigvaris Ankara Bayi,42
+Classical Traditional 504 Ürün Serisi – Sigvaris Ankara Bayi,41
+Ulcer X – KIT Serisi – Sigvaris Ankara Bayi,41
+Sigvaris Semi-Transparent (Magic) Serisi Külotlu Varis Çorabı Yarı Transparan Görünüm – Sigvaris Ankara Bayi,40
+Sigvaris Tradational 503 Serisi Diz Altı Orta Basınç Varis Çorabı | Doğal Kauçuk Örgü – Sigvaris Ankara Bayi,40
+Store Manager – Sigvaris Ankara Bayi,35
+Sigvaris Thermoregulating ( Cotton ) Serisi Dizaltı | Diz Altı Varis Çorabı – Sigvaris Ankara Bayi,34
+Sigvaris Tradational 503 Serisi Hamile Orta Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,32
+Essential Comfortable (Comfort) – Sigvaris Ankara Bayi,31
+Ulcer X – KIT Ürün Serisi – Sigvaris Ankara Bayi,31
+Classical Traditional 503 Serisi – Sigvaris Ankara Bayi,29
+Microfiber Shades Mini Stripes Wine Desenli Kadın Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,29
+Cart – Sigvaris Ankara Bayi,28
+Microfiber Shades Argyle Platin Desenli Kadın Dizaltı Varis Çorabı Renkli By Sigvaris – Sigvaris Ankara Bayi,26
+Microfiber Shades Stripes Onyx Desenli Erkek Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,25
+Sigvaris Semi-Transparent (Magic) Serisi Kasığa Kadar Silikonlu Varis Çorabı Yarı Transparan Görünüm – Sigvaris Ankara Bayi,24
+Sigvaris Tradational 504 Serisi Dizaltı CCL3 Yüksek Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,24
+Varis Çorabı Faydaları? – Sigvaris Ankara Bayi,24
+Microfiber Shades Mini Stripes Jeans Desenli Kadın Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,23
+Sigvaris Tradational 503 Serisi Kasığa Kadar Silikonlu Orta Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,22
+My account – Sigvaris Ankara Bayi,20
+Sigvaris Tradational 503 Serisi Diz Kasık Ortası Silikonlu Orta Basınç Varis Çorabı | Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,19
+Sigvaris Semi-Transparent (Magic) Serisi Hamile Varis Çorabı Yarı Transparan Görünüm – Sigvaris Ankara Bayi,18
+Sigvaris Thermoregulating ( Cotton ) Serisi Kasığa kadar Silikonlu – Sigvaris Ankara Bayi,16
+Microfiber Shades Argyle Purple Desenli Erkek Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,15
+Essential SemiTransparent (Magic) – Sigvaris Ankara Bayi,14
+Mikrofiber Shades – Sigvaris Ankara Bayi,13
+İstek Listesi – Sigvaris Ankara Bayi,13
+Classical Traditional 504 Serisi – Sigvaris Ankara Bayi,10
+Sigvaris Tradational 504 Serisi Kasığa Kadar CCL3 Yüksek Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,8
+Sigvaris Tradational 504 Serisi Kasığa Kadar Silikonlu CCL3 Yüksek Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,8
+Vendor Store › Setup Wizard,8
+İptal ve İade Koşulları – Sigvaris Ankara Bayi,8
+Sayfa bulunamadı – Sigvaris Ankara Bayi,7
+Aydınlatma Metni – Sigvaris Ankara Bayi,6
+Microfiber Shades Stripes Dark Navy Desenli Erkek Dizaltı Varis Çorabı | Renkli By Sigvaris – Sigvaris Ankara Bayi,6
+Sigvaris Tradational 504 Serisi Diz Kasık Arası CCL3 Yüksek Basınç Varis Çorabı Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,6
+Ürünlerimiz | Ankara – Sigvaris Ankara Bayi,6
+Kullanım Şartları – Sigvaris Ankara Bayi,5
+Sigvaris Tradational 504 Serisi Diz Kasık Arası Silikonlu CCL3 Yüksek Basınç Varis Çorabı | Doğal Kauçuk Çift Kat Örgü – Sigvaris Ankara Bayi,5
+Gizlilik ve Güvenlik – Sigvaris Ankara Bayi,3
+Mesafeli Satış Sözleşmesi – Sigvaris Ankara Bayi,3
+Geri Ödeme ve İade Politikası – Sigvaris Ankara Bayi,2
+“DİZ ÜSTÜ” için arama sonuçları – Sigvaris Ankara Bayi,2
+“7611711151689” için arama sonuçları – Sigvaris Ankara Bayi,1
+“7611711373289” için arama sonuçları – Sigvaris Ankara Bayi,1
+“diz altı ora basınç” için arama sonuçları – Sigvaris Ankara Bayi,1
+“erkek” için arama sonuçları – Sigvaris Ankara Bayi,1
+“hafif basınç diz altı burnu açık” için arama sonuçları – Sigvaris Ankara Bayi,1
+“rom” için arama sonuçları – Sigvaris Ankara Bayi,1
+
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Etkinlik adı,Etkinlik sayısı
+page_view,11238
+user_engagement,6970
+view_item_list,5901
+session_start,5848
+first_visit,5079
+view_item,1244
+scroll,1214
+form_start,173
+click,108
+form_submit,105
+ads_conversion__deme_1,97
+add_to_cart,56
+begin_checkout,30
+select_content,28
+view_search_results,8
+purchase,6
+
+# En iyi performans gösteren dönüşümleriniz hangileri?
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Etkinlik adı,Önemli etkinlikler
+ads_conversion__deme_1,97
+purchase,6
+
+# YBD metriğinizin kaynağı nedir?
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),120 günlük ortalama değer
+Paid Search,4.268985895634379
+
+#  
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Ürün adı,Satın alınan ürünler
+Sigvaris Thermoregulating ( Cotton ) Serisi Dizaltı | Diz Altı Varis Çorabı,2
+Microfiber Shades Argyle Platin Desenli Kadın Dizaltı Varis Çorabı  Renkli By Sigvaris,1
+Microfiber Shades Mini Stripes Wine Desenli Kadın Dizaltı Varis Çorabı | Renkli By Sigvaris,1
+Sigvaris Classical (Topfine Select) Serisi Dizaltı – Diz Altı Varis Çorabı,1
+Sigvaris Tradational 503 Serisi Külotlu Orta Basınç Varis Çorabı  Doğal Kauçuk Çift Kat Örgü,1
+
+# Platformlarınızdaki etkinliklerin karşılaştırması nasıl?
+# Başlangıç tarihi: 20240724
+# Bitiş tarihi: 20241021
+Platform,Önemli etkinlikler
+web,103
